@@ -91,3 +91,8 @@ body{
 .user-list li.hide{
     display: none;
 }
+
+.test-uchun{
+    display: none;
+    font-size: 29rem;
+}
